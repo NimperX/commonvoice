@@ -1,3 +1,15 @@
+# Common Voice
+
+Common voice is Mozilla's initiative to help teach machines how real humans speak.  It is a massive global database of donated voices that lets anyone quickly and easily train voice-enabled apps in potentially every language. We hope the Common Voice dataset will give developers what they need to innovate and make speech technology available in their own language.
+
+### Presentations
+
+- [Common Voice intro](https://slides.com/kalindut/topics#/) by Kalindu Thilanga
+- [How to contribute](https://nimperx.github.io/commonvoice/) by Nimna Perera
+
+## Used plugins
+------------------------------------------------------------------------------------------------------------------
+
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text.svg" alt="reveal.js" width="450">
